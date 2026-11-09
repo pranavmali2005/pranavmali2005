@@ -21,7 +21,7 @@ I enjoy designing electronic circuits, creating PCB layouts, and exploring pract
 - Completed PCB layout and routing.
 - Generated Gerber files for PCB fabrication.
 
-### 2. ESP32 Motor Monitoring System(working on)
+### 2. ESP32 Motor Monitoring System(In Progress)
 - Developing an ESP32-based motor monitoring PCB.
 - Planned vibration, temperature, and current sensing.
 - Working towards early fault detection.
